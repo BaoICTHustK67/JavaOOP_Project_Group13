@@ -1,3 +1,22 @@
-# OOP Project
+# OOP.ICT.2022.Group13
 
-This is one of my favourite projects at school. If you're student that learning OOP taught by Tran The Hung Ph.D you can using mine as a reference source. I remember there're still some stupid logics I made but hope you enjoy it :)
+## 1.  Assignment of Members:
+
+**20226015 - Hoàng Bá Bảo**
+**20226015 - Hoàng Bá Bảo**
+-	ElectricalApplication.java
+-	guiController.java (90%)
+-	guiElectrical.fxml (10%)
+
+**20226016 - Đinh Ngọc Cầm**
+-	Component, Resistor, Capacitor, Inductor.java
+-	Source.java
+-	Calculator, Circuit, ParallelCitcuit.java
+-	guiController.java (10%)
+-   guiElectrical.fxml (90%)
+-	Slide presentation
+
+**20226069 - Tưởng Phi Tuấn:**
+-	SerialCircuit.java
+-	UML diagram
+-	Report
