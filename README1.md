@@ -3,10 +3,13 @@
 ## 1.  Assignment of Members:
 
 **20226015 - Hoàng Bá Bảo**
-**20226015 - Hoàng Bá Bảo**
+**20210147 - Phan Công Đại**
 -	ElectricalApplication.java
 -	guiController.java (90%)
 -	guiElectrical.fxml (10%)
+
+**20210147 - Phan Công Đại**
+- ChatGPT integration
 
 **20226016 - Đinh Ngọc Cầm**
 -	Component, Resistor, Capacitor, Inductor.java
